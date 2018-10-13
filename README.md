@@ -3,7 +3,7 @@
 * Printer - print temporary QR codes, paper wallets  
 * QR code scanner software - `apt-get install zbar-tools`  
 * Crypto Node  
-* Video Surveillance for system tampering  
+* Video Surveillance for system tampering (air-gapped)  
 
 ```
 # example use case (add-on to verdantwarden.sh)  
