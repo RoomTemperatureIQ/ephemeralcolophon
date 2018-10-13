@@ -5,10 +5,12 @@
 * Crypto Node  
 * Video Surveillance for system tampering  
 
+```
 # example use case (add-on to verdantwarden)  
 # `blueproximity` - user leaves computer system  
 # `udev` rules.d trigger  
 # `Motion` - activate detection for tampering with air-gapped system
+```
 
 https://www.instructables.com/id/Design-and-Print-Your-Own-Temporary-Tattoos/  
 https://bitcoinpaperwallet.com/index.php  
