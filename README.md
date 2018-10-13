@@ -6,7 +6,7 @@
 * Video Surveillance for system tampering  
 
 ```
-# example use case (add-on to verdantwarden)  
+# example use case (add-on to verdantwarden.sh)  
 # `blueproximity` - user leaves computer system  
 # `udev` rules.d trigger  
 # `Motion` - activate detection for tampering with air-gapped system
