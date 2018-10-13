@@ -8,4 +8,4 @@ https://www.instructables.com/id/Design-and-Print-Your-Own-Temporary-Tattoos/
 https://bitcoinpaperwallet.com/index.php  
 https://pinode.weebly.com/  
 https://pinode.weebly.com/hardened-cold-storage.html  
-
+https://github.com/ZBar/ZBar  
