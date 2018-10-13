@@ -9,3 +9,5 @@ https://bitcoinpaperwallet.com/index.php
 https://pinode.weebly.com/  
 https://pinode.weebly.com/hardened-cold-storage.html  
 https://github.com/ZBar/ZBar  
+http://zbar.sourceforge.net/  
+
