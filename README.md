@@ -20,5 +20,6 @@ https://github.com/ZBar/ZBar
 http://zbar.sourceforge.net/  
 https://wiki.archlinux.org/index.php/webcam_setup  
 https://github.com/jaromil/HasciiCam  
+https://www.maketecheasier.com/broadcast-live-video-in-ascii-art-with-hasciicam/  
 http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome  
 https://www.kerberos.io/  
