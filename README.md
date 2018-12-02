@@ -23,3 +23,7 @@ https://github.com/jaromil/HasciiCam
 https://www.maketecheasier.com/broadcast-live-video-in-ascii-art-with-hasciicam/  
 http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome  
 https://www.kerberos.io/  
+
+https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/  
+https://askubuntu.com/questions/487488/how-to-open-chromium-in-full-screen-kiosk-mode-in-minimal-windows-manager-enviro  
+https://www.danpurdy.co.uk/wp-content/cache/page_enhanced/www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/_index.html  
